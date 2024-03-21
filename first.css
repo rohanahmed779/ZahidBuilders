@@ -1,0 +1,19 @@
+.navbarfirst{
+    display: grid;
+    grid-template-columns: 20px, 1fr;
+    column-gap: 50px;
+}
+.ZB{
+    background-color: blue;
+    
+}
+.zblogo{
+    width: 25px;
+}
+.navbutton{
+    background-color: green;
+}
+.test{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
